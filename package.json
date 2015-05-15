@@ -38,8 +38,6 @@
     "node": "0.10.x"
   },
   "scripts": {
-    "start": "node web.js",
-    "test": "grunt test",
-    "postinstall": "bower install && grunt build"
+    "test": "grunt test"
   }
 }
