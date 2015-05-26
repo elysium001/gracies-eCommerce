@@ -22,5 +22,7 @@ angular.module('graciesApp')
     		}, 1000)
     	});
     }
+
     console.log(product);
+
   });
